@@ -1,7 +1,8 @@
 <h1 align="center">👩‍💻 Noemi Paiva</h1>
 
 <p align="center">
-📚 Professora de Desenvolvimento de Sistemas e Redes de Computadores  
+📚 Professora de Desenvolvimento de Sistemas e Redes de Computadores
+<br>
 🎯 Foco em prática, lógica de programação, soft skills e ensino acessível
 </p>
 
